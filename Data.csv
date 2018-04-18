@@ -1,0 +1,98 @@
+Actor,Activity,StartTime,EndTime,Last Time,Comment,Left Wrist,Waist
+Joon,Fall,2:14:08 pm,2:14:10 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Fall,2:14:25 pm,2:14:27 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Fall,2:14:38 pm,2:14:40 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall,2:11:52 pm,2:11:54 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall,2:12:15 pm,2:12:17 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall,2:13:30 pm,2:13:32 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Fall with Wiggling Hands,2:18:59 pm,2:19:02 pm,3s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Fall with Wiggling Hands,2:19:12 pm,2:19:15 pm,3s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Fall with Wiggling Hands,2:19:27 pm,2:19:30 pm,3s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall with Wiggling Hands,2:17:15 pm,2:17:18 pm,3s,Not Fall,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall with Wiggling Hands,2:17:54 pm,2:17:58 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall with Wiggling Hands,2:18:18 pm,2:18:20 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Fall with Wiggling Hands,2:18:37 pm,2:18:41 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Get Thing on Floor,1:42:43 pm,1:42:46 pm,3s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Get Thing on Floor,1:42:59 pm,1:43:03 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Get Thing on Floor,1:43:17 pm,1:43:21 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Get Thing on Floor,1:40:45 pm,1:40:50 pm,5s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Get Thing on Floor,1:41:05 pm,1:41:09 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Get Thing on Floor,1:41:25 pm,1:41:29 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Go Down Stairs,1:57:03 pm,1:57:13 pm,10s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Go Down Stairs,1:57:49 pm,1:58:02 pm,13s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Go Down Stairs,1:58:50 pm,1:59:03 pm,13s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Go Down Stairs,1:54:35 pm,1:54:42 pm,7s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Go Down Stairs,1:55:15 pm,1:55:22 pm,7s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Go Down Stairs,1:56:02 pm,1:56:08 pm,6s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Go Up Stairs,1:56:42 pm,1:56:52 pm,10s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Go Up Stairs,1:57:24 pm,1:57:38 pm,14s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Go Up Stairs,1:58:27 pm,1:58:38 pm,11s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Go Up Stairs,1:54:15 pm,1:54:24 pm,9s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Go Up Stairs,1:54:58 pm,1:55:05 pm,7s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Go Up Stairs,1:55:40 pm,1:55:48 pm,8s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Jump,1:28:57 pm,1:29:00 pm,3s,3 times,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Jump,1:29:53 pm,1:30:00 pm,7s,4 times,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Jump,2:25:43 pm,2:25:58 pm,15s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Jump,1:28:37 pm,1:28:40 pm,3s,4 times,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Jump,2:25:44 pm,2:25:58 pm,14s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Knee Down,1:46:27 pm,1:46:33 pm,6s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Knee Down,1:46:46 pm,1:46:51 pm,5s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Knee Down,1:47:03 pm,1:47:09 pm,6s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Knee Down,1:45:08 pm,1:45:10 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Knee Down,1:45:29 pm,1:45:31 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Knee Down,1:45:45 pm,1:45:47 pm,2s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Lie Down,2:34:50 pm,2:34:55 pm,5s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Lie Down,2:35:16 pm,2:35:21 pm,5s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Lie Down,2:35:47 pm,2:35:51 pm,4s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Lie Down,2:36:25 pm,2:36:31 pm,6s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Lie Down,2:36:49 pm,2:36:52 pm,3s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Boyu,Lie Down,2:37:10 pm,2:37:15 pm,5s,,a0:e6:f8:00:00:c0,a0:e6:f8:00:00:c1
+Joon,Lie Still on Bed,2:30:38 pm,2:31:11 pm,33s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Lie Still on Bed,2:32:28 pm,2:32:53 pm,25s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Put Down a Thing,1:41:51 pm,1:41:54 pm,3s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Put Down a Thing,1:42:05 pm,1:42:10 pm,5s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Put Down a Thing,1:42:21 pm,1:42:25 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Put Down a Thing,1:38:58 pm,1:39:00 pm,2s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Put Down a Thing,1:39:18 pm,1:39:20 pm,2s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Put Down a Thing,1:39:36 pm,1:39:40 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Raise Hand Then Put It Down,2:40:29 pm,2:40:33 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Raise Hand Then Put It Down,2:40:41 pm,2:40:45 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Raise Hand Then Put It Down,2:40:54 pm,2:40:57 pm,3s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Raise Hand Then Put It Down,2:39:22 pm,2:39:26 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Raise Hand Then Put It Down,2:39:39 pm,2:39:47 pm,8s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Raise Hand Then Put It Down,2:40:13 pm,2:40:16 pm,3s,Drop Arm,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Run Up Stairs,2:06:50 pm,2:06:57 pm,7s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Run Up Stairs,2:07:10 pm,2:07:18 pm,8s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Run Up Stairs,2:07:31 pm,2:07:38 pm,7s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Run Up Stairs,2:04:25 pm,2:04:32 pm,7s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Run Up Stairs,2:05:40 pm,2:05:47 pm,7s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Run Up Stairs,2:06:06 pm,2:06:14 pm,8s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Run-Flat Ground,1:27:32 pm,1:27:36 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Run-Flat Ground,2:02:23 pm,2:02:53 pm,30s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Run-Flat Ground,1:27:01 pm,1:27:10 pm,9s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Run-Flat Ground,2:01:28 pm,2:01:59 pm,31s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Sit Down Normally,1:33:08 pm,1:33:12 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Sit Down Normally,1:32:10 pm,1:32:12 pm,2s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Sitting Still,2:26:54 pm,2:27:20 pm,26s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Sitting Still,2:26:54 pm,2:27:20 pm,26s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Stand Still,2:09:02 pm,2:09:32 pm,30s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Stand Still,2:08:02 pm,2:08:32 pm,30s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Throw Himself on Bed,2:33:26 pm,2:33:31 pm,5s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Throw Himself on Bed,2:33:50 pm,2:33:55 pm,5s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Throw Himself on Bed,2:34:26 pm,2:34:31 pm,5s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Throw Himself on Sofa,1:33:38 pm,1:33:41 pm,3s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Throw Himself on Sofa,2:29:04 pm,2:29:08 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Throw Himself on Sofa,2:29:17 pm,2:29:21 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Throw Himself on Sofa,1:32:39 pm,1:32:43 pm,4s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Throw Himself on Sofa,2:28:25 pm,2:28:27 pm,2s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Throw Himself on Sofa,2:28:46 pm,2:28:47 pm,1s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Try to Keep Balance,2:20:23 pm,2:20:27 pm,4s,Not Good ,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Try to Keep Balance,2:21:04 pm,2:21:09 pm,5s,Not Good ,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Try to Keep Balance,2:21:40 pm,2:21:45 pm,5s,Not Good ,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Try to Keep Balance,2:22:35 pm,2:22:45 pm,10s,Not Good ,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Try to Keep Balance,2:23:25 pm,2:23:31 pm,6s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Try to Keep Balance,2:23:45 pm,2:23:53 pm,8s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Walk-Flat Ground,1:26:10 pm,1:26:15 pm,5s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Joon,Walk-Flat Ground,1:50:17 pm,1:51:17 pm,1m,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Walk-Flat Ground,1:25:51 pm,1:25:58 pm,7s,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
+Boyu,Walk-Flat Ground,1:49:00 pm,1:50:00 pm,1m,,a0:e6:f8:00:00:c2,a0:e6:f8:00:00:c3
