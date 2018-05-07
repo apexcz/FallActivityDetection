@@ -1,0 +1,2 @@
+ID,max_x,max_y,max_z,min_x,min_y,min_z,mean_x,mean_y,mean_z,var_x,var_y,var_z,activity,isfall,timestamp,duration
+1,1.376,0.48,0.16,0.608,0.064,-0.192,0.944410256,0.302358974,0.018051282,0.011834909,0.005819666,0.005214254, 'Walk-Flat Ground',0,1521638769,4.579999924
